@@ -1,4 +1,4 @@
 
-type * .css
-type * .java
-
+type *.css
+type *.java
+type *.xml
