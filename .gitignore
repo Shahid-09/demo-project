@@ -1,4 +1,5 @@
 
-type *.css
-type *.java
-type *.xml
+type*.css
+type*.java
+type*.xml
+type*.py
